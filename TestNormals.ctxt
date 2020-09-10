@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=testUpperLimit\ testLowerLimit
+comment0.target=void\ happyTest(double[],\ double[])
+numComments=1

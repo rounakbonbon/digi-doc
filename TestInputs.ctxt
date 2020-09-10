@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=testNum
+comment0.target=void\ generalTest(double[])
+comment1.params=testNum
+comment1.target=void\ bloodTest(double[])
+comment2.params=testNum
+comment2.target=void\ liverTest(double[])
+comment3.params=testNum
+comment3.target=void\ kidneyTest(double[])
+comment4.params=testNum
+comment4.target=void\ thyroidTest(double[])
+comment5.params=testNum
+comment5.target=void\ sugarTest(double[])
+numComments=6

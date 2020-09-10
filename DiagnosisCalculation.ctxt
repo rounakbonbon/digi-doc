@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=testNum\ testUpperLimit\ testLowerLimit\ diseaseScore
+comment0.target=void\ diagnose(double[],\ double[],\ double[],\ int[])
+numComments=1

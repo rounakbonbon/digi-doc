@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=diseaseScore\ diseaseNames
+comment0.target=void\ Sort(int[],\ java.lang.String[])
+numComments=1
