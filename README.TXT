@@ -5,7 +5,7 @@ This is the project README file.
 PROJECT TITLE:              DIGI-DOC
 PURPOSE OF PROJECT:         Welfare of mankind.
 VERSION:                    1.0
-AUTHOR:                     Rishi Mitra, X-A, 24
+AUTHOR:                     Rounak Roychowdhury and Rishi Mitra
 
 DISEASE SERIALS:
 
